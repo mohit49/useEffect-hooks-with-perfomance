@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+.my-tuts {
+  height: 100%;
+  width: 100%;
+  background: #52be80;
+  position: fixed;
+}
+.my-tuts input {
+  height: 30px;
+  width: 60%;
+  display: block;
+  margin: 10% auto;
+  border: none;
+}
+.my-tuts button {
+  background: #000;
+  color: #ffffff;
+  border: 0;
+  padding: 10px;
+  cursor: pointer;
+}
+.my-tuts {
+  color: #ffffff;
+  font-size: 18px;
+}
