@@ -1,3 +1,2 @@
-# react-l9kcus
+# useEffect Hooks with perfomance
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-l9kcus)
